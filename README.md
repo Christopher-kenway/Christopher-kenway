@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Christopher-kenway
-- 👀 I’m interested in blender3D, HTML and simple codes
-- 🌱 I’m currently learning front end web deveolping
+- 👀 I’m interested in blender3D, HTML5 and simple codes
+- 🌱 I’m currently learning front end web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:- maero1eguwe@gmail.com
 - 
