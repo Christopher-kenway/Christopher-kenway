@@ -5,7 +5,10 @@
 
 <h1 align="center">Hi 👋, I'm Christopher Kenway</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/OjVjDqcWaIoAAAAd/tenor.gif">
+<p align="left">
+  <img src="https://media.tenor.com/images/OjVjDqcWaIoAAAAd/tenor.gif" alt="Coding GIF">
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christopher-kenway&label=Profile%20views&color=0e75b6&style=flat" alt="christopher-kenway" /> </p>
