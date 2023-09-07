@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Christopher Kenway</h1>
+<h1 align="center">Hi 👋, Call me Christopher Kenway</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <p align="left">
   <img src="https://media.tenor.com/images/OjVjDqcWaIoAAAAd/tenor.gif" alt="Coding GIF">
