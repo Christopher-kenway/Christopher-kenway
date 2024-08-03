@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher-kenway" alt="christopher-kenway" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **HTML5, CSS, bootstrap, Blender3D**
+- 💬 Skills **HTML5, CSS, bootstrap, Tailwind, JS**
 
 - 📫 How to reach me **maero1eguwe@gmail.com**
 
