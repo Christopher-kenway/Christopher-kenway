@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Skills **HTML5, CSS, bootstrap, Tailwind, JS**
+- 💬 Skills **HTML5, CSS, bootstrap, Tailwind, JS, React, Next**
 
 - 📫 How to reach me **maero1eguwe@gmail.com**
 
